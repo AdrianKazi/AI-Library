@@ -1,2 +1,2 @@
 # AI-Library
-Collection of descriptive notebooks about main AI fields
+Collection of descriptive notebooks in field of applied science main fields
