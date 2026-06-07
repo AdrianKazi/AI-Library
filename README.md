@@ -1,2 +1,2 @@
 # AI-Library
-Collection of descriptive notebooks in field of applied science main fields
+A curated collection of applied science notebooks that explain core concepts through intuition, code, visualizations, and practical examples.
